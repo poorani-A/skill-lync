@@ -1,0 +1,13 @@
+E:\oops\method ab\bin\Debug\netcoreapp3.1\method ab.exe
+E:\oops\method ab\bin\Debug\netcoreapp3.1\method ab.deps.json
+E:\oops\method ab\bin\Debug\netcoreapp3.1\method ab.runtimeconfig.json
+E:\oops\method ab\bin\Debug\netcoreapp3.1\method ab.runtimeconfig.dev.json
+E:\oops\method ab\bin\Debug\netcoreapp3.1\method ab.dll
+E:\oops\method ab\bin\Debug\netcoreapp3.1\method ab.pdb
+E:\oops\method ab\obj\Debug\netcoreapp3.1\method ab.csprojAssemblyReference.cache
+E:\oops\method ab\obj\Debug\netcoreapp3.1\method ab.AssemblyInfoInputs.cache
+E:\oops\method ab\obj\Debug\netcoreapp3.1\method ab.AssemblyInfo.cs
+E:\oops\method ab\obj\Debug\netcoreapp3.1\method ab.csproj.CoreCompileInputs.cache
+E:\oops\method ab\obj\Debug\netcoreapp3.1\method ab.dll
+E:\oops\method ab\obj\Debug\netcoreapp3.1\method ab.pdb
+E:\oops\method ab\obj\Debug\netcoreapp3.1\method ab.genruntimeconfig.cache

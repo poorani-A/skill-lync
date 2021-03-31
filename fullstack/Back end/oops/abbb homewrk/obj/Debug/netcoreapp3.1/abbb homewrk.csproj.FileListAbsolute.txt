@@ -1,0 +1,13 @@
+E:\oops\abbb homewrk\bin\Debug\netcoreapp3.1\abbb homewrk.exe
+E:\oops\abbb homewrk\bin\Debug\netcoreapp3.1\abbb homewrk.deps.json
+E:\oops\abbb homewrk\bin\Debug\netcoreapp3.1\abbb homewrk.runtimeconfig.json
+E:\oops\abbb homewrk\bin\Debug\netcoreapp3.1\abbb homewrk.runtimeconfig.dev.json
+E:\oops\abbb homewrk\bin\Debug\netcoreapp3.1\abbb homewrk.dll
+E:\oops\abbb homewrk\bin\Debug\netcoreapp3.1\abbb homewrk.pdb
+E:\oops\abbb homewrk\obj\Debug\netcoreapp3.1\abbb homewrk.csprojAssemblyReference.cache
+E:\oops\abbb homewrk\obj\Debug\netcoreapp3.1\abbb homewrk.AssemblyInfoInputs.cache
+E:\oops\abbb homewrk\obj\Debug\netcoreapp3.1\abbb homewrk.AssemblyInfo.cs
+E:\oops\abbb homewrk\obj\Debug\netcoreapp3.1\abbb homewrk.csproj.CoreCompileInputs.cache
+E:\oops\abbb homewrk\obj\Debug\netcoreapp3.1\abbb homewrk.dll
+E:\oops\abbb homewrk\obj\Debug\netcoreapp3.1\abbb homewrk.pdb
+E:\oops\abbb homewrk\obj\Debug\netcoreapp3.1\abbb homewrk.genruntimeconfig.cache

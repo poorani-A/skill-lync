@@ -1,0 +1,23 @@
+Angular is the framework for building the single page client application using html and typescript.
+framework is set of predefined code ,we can reuse the code.
+Angular 1 developed by microsoft in 2011,angular 2(react js) facebook  in 2015,....upto angular 11.
+Every year,2 latest version updates.
+
+Js is the front end scripting language.
+Node js is the backend scripting language.
+first install the Node js and we will access the angular.
+
+Node js version 14.16 LTS long time support
+ current version -15 cannot be used.
+
+why angular js:
+SPA-single page application there is only one html file.
+In SPA,when the user moves from one to tab to anoyher tab,the whole page is not reloaded.
+Istead only a part of the html is replaces with another file.
+
+Dynamically typed language.
+
+Im IT graduate with strong knowledge in my skills. Im intersterd in the programs: Java, Javascript, SQL,, C#, expertise with HTML and CSS seeks to establish a career as the Full Stack Developer.
+Full stack developers are required to be proficient in front end development and back end web development, coding with HTML, CSS, and JS for the client-side and maintaining databases and infrastructure server-side.
+
+Im IT graduate with strong knowledge in my skills. Im intersterd in the programs: Java, Javascript, SQL,, C#, expertise with HTML and CSS seeks to establish a career as the Full Stack Developer.

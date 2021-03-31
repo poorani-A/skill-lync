@@ -1,0 +1,13 @@
+E:\Interface\bin\Debug\netcoreapp3.1\Interface.exe
+E:\Interface\bin\Debug\netcoreapp3.1\Interface.deps.json
+E:\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.json
+E:\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.dev.json
+E:\Interface\bin\Debug\netcoreapp3.1\Interface.dll
+E:\Interface\bin\Debug\netcoreapp3.1\Interface.pdb
+E:\Interface\obj\Debug\netcoreapp3.1\Interface.csprojAssemblyReference.cache
+E:\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfoInputs.cache
+E:\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfo.cs
+E:\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.CoreCompileInputs.cache
+E:\Interface\obj\Debug\netcoreapp3.1\Interface.dll
+E:\Interface\obj\Debug\netcoreapp3.1\Interface.pdb
+E:\Interface\obj\Debug\netcoreapp3.1\Interface.genruntimeconfig.cache

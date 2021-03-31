@@ -1,0 +1,13 @@
+E:\oops\inheritance\inheritance2\bin\Debug\netcoreapp3.1\inheritance2.exe
+E:\oops\inheritance\inheritance2\bin\Debug\netcoreapp3.1\inheritance2.deps.json
+E:\oops\inheritance\inheritance2\bin\Debug\netcoreapp3.1\inheritance2.runtimeconfig.json
+E:\oops\inheritance\inheritance2\bin\Debug\netcoreapp3.1\inheritance2.runtimeconfig.dev.json
+E:\oops\inheritance\inheritance2\bin\Debug\netcoreapp3.1\inheritance2.dll
+E:\oops\inheritance\inheritance2\bin\Debug\netcoreapp3.1\inheritance2.pdb
+E:\oops\inheritance\inheritance2\obj\Debug\netcoreapp3.1\inheritance2.csprojAssemblyReference.cache
+E:\oops\inheritance\inheritance2\obj\Debug\netcoreapp3.1\inheritance2.AssemblyInfoInputs.cache
+E:\oops\inheritance\inheritance2\obj\Debug\netcoreapp3.1\inheritance2.AssemblyInfo.cs
+E:\oops\inheritance\inheritance2\obj\Debug\netcoreapp3.1\inheritance2.csproj.CoreCompileInputs.cache
+E:\oops\inheritance\inheritance2\obj\Debug\netcoreapp3.1\inheritance2.dll
+E:\oops\inheritance\inheritance2\obj\Debug\netcoreapp3.1\inheritance2.pdb
+E:\oops\inheritance\inheritance2\obj\Debug\netcoreapp3.1\inheritance2.genruntimeconfig.cache

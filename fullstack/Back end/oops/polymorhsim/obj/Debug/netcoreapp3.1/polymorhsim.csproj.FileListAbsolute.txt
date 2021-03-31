@@ -1,0 +1,13 @@
+E:\polymorhsim\bin\Debug\netcoreapp3.1\polymorhsim.exe
+E:\polymorhsim\bin\Debug\netcoreapp3.1\polymorhsim.deps.json
+E:\polymorhsim\bin\Debug\netcoreapp3.1\polymorhsim.runtimeconfig.json
+E:\polymorhsim\bin\Debug\netcoreapp3.1\polymorhsim.runtimeconfig.dev.json
+E:\polymorhsim\bin\Debug\netcoreapp3.1\polymorhsim.dll
+E:\polymorhsim\bin\Debug\netcoreapp3.1\polymorhsim.pdb
+E:\polymorhsim\obj\Debug\netcoreapp3.1\polymorhsim.csprojAssemblyReference.cache
+E:\polymorhsim\obj\Debug\netcoreapp3.1\polymorhsim.AssemblyInfoInputs.cache
+E:\polymorhsim\obj\Debug\netcoreapp3.1\polymorhsim.AssemblyInfo.cs
+E:\polymorhsim\obj\Debug\netcoreapp3.1\polymorhsim.csproj.CoreCompileInputs.cache
+E:\polymorhsim\obj\Debug\netcoreapp3.1\polymorhsim.dll
+E:\polymorhsim\obj\Debug\netcoreapp3.1\polymorhsim.pdb
+E:\polymorhsim\obj\Debug\netcoreapp3.1\polymorhsim.genruntimeconfig.cache

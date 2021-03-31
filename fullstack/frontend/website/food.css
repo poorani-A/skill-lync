@@ -1,0 +1,237 @@
+.navitems li a
+{
+
+float: right;
+padding-right:  30px;
+text-decoration: none;
+color:rgb(15, 1, 1);
+font-size: 40px;
+
+
+}
+.nav #img
+{
+    float:left;
+    padding-bottom:10px;
+}
+header.head
+{
+    background-color: rgb(236, 241, 241,0.4);
+}
+
+/* .nav ul li a
+{
+    text-decoration: none;
+    color:white;
+} */
+
+body
+{
+    background: url("bg.jpg");
+    background-repeat: no-repeat;
+    justify-content: space-evenly;
+  
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    
+}
+
+ul{
+    list-style-type:none;
+    margin:0;
+   
+}
+li a{
+    display:block;
+    font-size:30px; 
+    color:rgb(202, 73, 73);
+    font-style:initial;
+    font-weight: 500;
+    padding:10px;
+
+}
+.navitems li a:hover
+{
+    color: rgba(28, 39, 41, 0.931);
+    font-size: 38px;
+
+}
+
+.mount h1
+{
+    margin: 170px;
+    margin-bottom: 0px;
+    color:goldenrod;
+    font-size: 80px;
+    font-family: lobster;
+
+}  
+.mount p{
+
+    color:rgb(153, 185, 92);
+    font-size: 30px;
+    font-family:comic sans ms;
+    font-style: italic;
+    margin: 0px;
+
+}
+.mount a{
+    border: solid ;
+    text-decoration: none;
+    padding:20px;
+    width: 900px;
+    height: 1000;
+    color: rgb(241, 238, 189);
+    background-color: rgb(243, 240, 240,0.5);
+    border-radius: 10px;
+
+}
+.mount
+{
+    text-align: center;
+    margin: 35px;
+    
+}
+.nav{
+    border: 1px solid rgb(24, 22, 22);
+  padding: 100px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+   
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: inline-block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* deop down property */
+  li.dropdown {
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    z-index: 1;
+  }
+  
+ 
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #8b8383}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+    font-size: 30px;
+    background-color: rgb(66, 63, 58);
+  }
+  
+  
+  .dropdown
+  {
+      float:right;
+      margin-top: 13px;
+      color:rgb(8, 4, 4);
+      font-size: 40px;
+      font-weight: 500;
+      padding-right:  30px;
+  }
+.navitems li a:hover
+  {
+    font-size: 45px;
+  }
+  #home
+  {
+    color:rgb(15, 1, 1,0.5);
+  }
+
+
+
+
+
+/* gallery css */
+.home{
+color: rgb(244, 255, 240);
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+/* Style the images inside the grid */
+.column img:hover {
+  opacity: 1;
+}
+.column img {
+  opacity: 0.8; 
+  cursor: pointer; 
+}
+
+/* The expanding image container */
+.container {
+  position: relative;
+  display: none;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Closable button inside the expanded image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+/* footer */
+ .footer{
+   padding:10px;
+   
+    background-color:#1c1a17;
+    text-align:left;
+ }
+ .footer img{
+   width: 50px;
+   height: 50px;
+ }
+
+ 
+
+ .home{
+   float:left;
+   
+ }
+ p{
+   align-content: center;
+   text-align: center;
+   font-size: 1pc;
+   color: azure;
+ }

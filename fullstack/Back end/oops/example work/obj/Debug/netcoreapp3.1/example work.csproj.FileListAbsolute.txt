@@ -1,0 +1,13 @@
+E:\oops\example work\bin\Debug\netcoreapp3.1\example work.exe
+E:\oops\example work\bin\Debug\netcoreapp3.1\example work.deps.json
+E:\oops\example work\bin\Debug\netcoreapp3.1\example work.runtimeconfig.json
+E:\oops\example work\bin\Debug\netcoreapp3.1\example work.runtimeconfig.dev.json
+E:\oops\example work\bin\Debug\netcoreapp3.1\example work.dll
+E:\oops\example work\bin\Debug\netcoreapp3.1\example work.pdb
+E:\oops\example work\obj\Debug\netcoreapp3.1\example work.csprojAssemblyReference.cache
+E:\oops\example work\obj\Debug\netcoreapp3.1\example work.AssemblyInfoInputs.cache
+E:\oops\example work\obj\Debug\netcoreapp3.1\example work.AssemblyInfo.cs
+E:\oops\example work\obj\Debug\netcoreapp3.1\example work.csproj.CoreCompileInputs.cache
+E:\oops\example work\obj\Debug\netcoreapp3.1\example work.dll
+E:\oops\example work\obj\Debug\netcoreapp3.1\example work.pdb
+E:\oops\example work\obj\Debug\netcoreapp3.1\example work.genruntimeconfig.cache

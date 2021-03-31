@@ -1,0 +1,13 @@
+E:\overriding\bin\Debug\netcoreapp3.1\overriding.exe
+E:\overriding\bin\Debug\netcoreapp3.1\overriding.deps.json
+E:\overriding\bin\Debug\netcoreapp3.1\overriding.runtimeconfig.json
+E:\overriding\bin\Debug\netcoreapp3.1\overriding.runtimeconfig.dev.json
+E:\overriding\bin\Debug\netcoreapp3.1\overriding.dll
+E:\overriding\bin\Debug\netcoreapp3.1\overriding.pdb
+E:\overriding\obj\Debug\netcoreapp3.1\overriding.csprojAssemblyReference.cache
+E:\overriding\obj\Debug\netcoreapp3.1\overriding.AssemblyInfoInputs.cache
+E:\overriding\obj\Debug\netcoreapp3.1\overriding.AssemblyInfo.cs
+E:\overriding\obj\Debug\netcoreapp3.1\overriding.csproj.CoreCompileInputs.cache
+E:\overriding\obj\Debug\netcoreapp3.1\overriding.dll
+E:\overriding\obj\Debug\netcoreapp3.1\overriding.pdb
+E:\overriding\obj\Debug\netcoreapp3.1\overriding.genruntimeconfig.cache

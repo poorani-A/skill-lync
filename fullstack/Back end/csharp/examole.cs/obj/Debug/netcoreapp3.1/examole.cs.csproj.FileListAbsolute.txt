@@ -1,0 +1,13 @@
+E:\csharp\examole.cs\bin\Debug\netcoreapp3.1\examole.cs.exe
+E:\csharp\examole.cs\bin\Debug\netcoreapp3.1\examole.cs.deps.json
+E:\csharp\examole.cs\bin\Debug\netcoreapp3.1\examole.cs.runtimeconfig.json
+E:\csharp\examole.cs\bin\Debug\netcoreapp3.1\examole.cs.runtimeconfig.dev.json
+E:\csharp\examole.cs\bin\Debug\netcoreapp3.1\examole.cs.dll
+E:\csharp\examole.cs\bin\Debug\netcoreapp3.1\examole.cs.pdb
+E:\csharp\examole.cs\obj\Debug\netcoreapp3.1\examole.cs.csprojAssemblyReference.cache
+E:\csharp\examole.cs\obj\Debug\netcoreapp3.1\examole.cs.AssemblyInfoInputs.cache
+E:\csharp\examole.cs\obj\Debug\netcoreapp3.1\examole.cs.AssemblyInfo.cs
+E:\csharp\examole.cs\obj\Debug\netcoreapp3.1\examole.cs.csproj.CoreCompileInputs.cache
+E:\csharp\examole.cs\obj\Debug\netcoreapp3.1\examole.cs.dll
+E:\csharp\examole.cs\obj\Debug\netcoreapp3.1\examole.cs.pdb
+E:\csharp\examole.cs\obj\Debug\netcoreapp3.1\examole.cs.genruntimeconfig.cache

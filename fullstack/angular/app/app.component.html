@@ -1,0 +1,124 @@
+welcome to angular<br />
+{{title}}..{{counter}}
+<input type="button" value="increment" (click)="incrementVal()" />
+<br />
+<div [style.display]="showState=='show'?'none':'block'" [style.color]="color">
+  This is Testingshow/hide
+</div>
+<div *ngIf="haveElem">this element use ngif</div>
+<input type="button" [value]="showState" (click)="showHide()" />
+<br />
+<input type="button" value="Change color" (click)="changeColor()" />
+
+<input type="text" [(ngModel)]="searchTerm" />
+
+<div [ngSwitch]="emotion">
+  <div *ngSwitchCase="'happy'">Am Happy</div>
+  <div *ngSwitchCase="'sad'">Am notHappy</div>
+  <div *ngSwitchCase="'confused'">Am neither Happy nor sad</div>
+  <div *ngSwitchDefault>Default Case.None of the emotion matches!</div>
+</div>
+<div [ngClass]="{cls1:haveElem,cls2:!haveElem,cls3:haveElem}">Testing ng class</div>
+
+<div [ngStyle]="{'font-weight':haveElem?'bold':'normal','font-size':'20px'}">testing ngstyle</div>
+
+<input type="radio" value="red" (click)="bgColor='red'" name="bgColor" />Red
+<input type="radio" value="blue" (click)="bgColor='blue'" name="bgColor" />Blue
+<input type="radio" value="green" (click)="bgColor='green'" name="bgColor" />Green
+
+<div appHighlight [color]="bgColor">Hover me to change background color 1</div>
+<div appHighlight [color]="bgColor" defaultColor="orange" (tellColor)="receiveColor($event)">Hover me to change
+  background color 2</div>
+<div appHighlight [color]="bgColor" (tellColor)="receiveColor($event)">Hover me to change background color 3</div>
+
+
+<div>
+  Pipes:
+  <ul>
+    <li>Orginal string:{{testStr}}</li>
+    <li>uppercase:{{testStr | uppercase}}</li>
+    <li>lowercase:{{testStr|lowercase}}</li>
+    <li>titlecase:{{testStr|titlecase}}</li>
+    <li>slice:{{testStr|slice:0:5}}</li>
+
+    <li>Orginal date:{{testStr}}</li>
+    <li>Date pipe:{{testDt|date:'dd-MMM-YYYY</li>
+
+
+    <li>Orginal Number:{{testNum}}</li>
+    <li>Currency pipe:{{testNum|currency:'USD'}}</li>
+    <li>percent pipe:{{testNum1|percent}}</li>
+
+    <li>JSON pipe:{{booksArr|json }}</li>
+    <li>keyvalue pipe:
+      <ul>
+        <li *ngFor="let item of booksObj|keyvalue">{{item.key}}-{{item.value}}</li>
+      </ul>
+
+    <li> Orginal Number: {{testNum|multiplier:40}}</li>
+
+  </ul>
+</div>
+
+<div>
+  ngModel-2way binding
+  <input type="password" [(ngModel)]="passwordStr" (input)="validatePassword()" />
+  <span [style.color]="passColor">{{passStr}}</span>
+</div>
+<ul>
+  <li>
+    <a routerLink="/products">Products</a>
+  </li>
+  <li>
+    <a routerLink="/inventory">Inventory</a>
+  </li>
+  <li><a routerLink="home">home</a>
+  </li>
+  <li><a routerLink="sales">sales</a>
+  </li>
+  <li>
+    <a routerLink="/sales/1">sales1</a>
+  </li>
+  <li>
+    <a routerLink="/sales/2">sales2</a>
+  </li>
+  <li>
+    <a routerLink="/sales/3">sales3</a>
+  </li>
+  <li>
+    <a routerLink="dashboard">dashboard</a>
+  </li>
+  <li>
+    <a routerLink="error">error</a>
+  </li>
+  <li>
+    <a routerLink="users/add">users/add</a>
+  </li>
+  <li>
+    <a routerLink="users/list">users/list</a>
+  </li>
+  <li>
+    <a routerLink="customer/add">customer/add</a>
+  </li>
+  <li>
+    <a routerLink="customer/list">customer/list</a>
+  </li>
+
+
+  <li>
+    <input type="button" value="navigate" (click)="nevigateMe()" />
+  </li>
+
+  <router-outlet></router-outlet>
+
+
+
+  loading child component 
+
+  <app-child [booksArr]="booksArr"[searchTerm]="searchTerm"(informParent)="receiveBook($event)"></app-child>
+  <br><br><br><br>
+
+  <div>
+    subject testing
+    <input type="button"(click)="incrCounter()" value="increment">
+    </div>
